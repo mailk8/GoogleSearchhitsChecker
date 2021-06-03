@@ -1,0 +1,22 @@
+{
+  "name": "GoogleSearchhitsChecker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "GoogleSearchhitsChecker.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Marcel Ilkenhans",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.6.1",
+    "puppeteer": "^10.0.0",
+    "puppeteer-extra": "^3.1.18",
+    "puppeteer-extra-plugin-recaptcha": "^3.4.0",
+    "puppeteer-extra-plugin-stealth": "^2.7.8",
+    "ts-node": "^10.0.0",
+    "typescript": "^4.2.4"
+  },
+  "devDependencies": {
+    "@types/node": "^15.6.1"
+  }
+}
